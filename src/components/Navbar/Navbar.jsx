@@ -38,7 +38,7 @@ export default function Navbar() {
                         variant='h1'
                         component={'h1'}
                     >
-                        Product Suggestion Chatbot
+                        Product Recommendation AI
                     </Typography>
                 </Link>
             </Stack>

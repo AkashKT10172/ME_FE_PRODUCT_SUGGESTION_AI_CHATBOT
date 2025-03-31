@@ -59,7 +59,7 @@ export default function ChattingCard({ details, showFeedbackModal, updateChat, s
                     fontWeight={700}
                     fontSize={{ xs: 14, md: 16 }}
                 >
-                    {details.type == "AI" ? 'Customer Support AI' : 'You'}
+                    {details.type == "AI" ? 'Product Recommendation AI' : 'You'}
                 </Typography>
                 <Typography
                     fontSize={{ xs: 12, md: 16 }}
